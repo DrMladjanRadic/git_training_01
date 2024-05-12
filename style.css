@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --main-color: #353535;
+  --head-footer-color: #1e1d1d;
+  --main-color-dark: #505050;
+  --main-color-light: #ed7117;
+  --text-color: #CCCCCC;
+  --form-control-color: #ed7117;
+  --margin-form-text-radio: 0.7em
+}
