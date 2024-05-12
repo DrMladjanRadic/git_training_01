@@ -54,3 +54,8 @@ nav::before {
   background-color: #242424;
   padding-left: 0.5em;
 }
+
+.sidebar-links ul {
+  max-height: 100%;
+  overflow-y: auto;
+}
