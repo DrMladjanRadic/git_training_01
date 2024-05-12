@@ -46,3 +46,11 @@ nav::before {
   top: 0;
   left: 100%;
 }
+
+
+
+.sidebar-links {
+  max-height: 43%;
+  background-color: #242424;
+  padding-left: 0.5em;
+}
