@@ -70,3 +70,12 @@ nav::before {
   align-items: center;
   height: 53px;
 }
+
+
+.sidebar-links li:hover {
+  border:solid;
+  border-radius: 10px;
+  border-width: 0.1em;
+  border-color: var(--main-color-light);
+  background-color: #505050;
+}
