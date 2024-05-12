@@ -79,3 +79,12 @@ nav::before {
   border-color: var(--main-color-light);
   background-color: #505050;
 }
+
+
+main {
+  flex: 1;
+  color: #CCCCCC;
+  display: flex;
+  flex-direction: column;
+  background-color: #101010;
+}
