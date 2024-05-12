@@ -15,3 +15,12 @@
   --form-control-color: #ed7117;
   --margin-form-text-radio: 0.7em
 }
+
+body {
+  font-family: "Tahoma", sans-serif;
+  overflow-x: hidden;
+  background-color: #e4e2f5;
+  min-height: 100vh;
+  display: flex;
+  position: relative;
+}
