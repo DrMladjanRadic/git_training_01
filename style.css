@@ -59,3 +59,14 @@ nav::before {
   max-height: 100%;
   overflow-y: auto;
 }
+
+.sidebar-links li {
+  position: relative;
+  padding: 2.5px 10px;
+  color: var(--text-color);
+  font-weight: 200;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  height: 53px;
+}
